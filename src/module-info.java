@@ -4,6 +4,6 @@
 /**
  * 
  */
-module Sockets {
+module SocketsJava {
 	requires java.rmi;
 }
